@@ -1,16 +1,15 @@
-## Hi there 👋
+## Shubham Tibrewal
 
-<!--
-**stresearch-dev/stresearch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher working on **language model evaluation**, **multilingual reasoning**, and **reproducible AI**. Chartered Accountant by training; now focused on how large language models reason across languages — especially Indic and low-resource languages.
 
-Here are some ideas to get you started:
+**Current work:** measuring the cross-lingual reasoning gap — how much LLM reasoning accuracy changes when problems are posed in Hindi, Sanskrit, and Tamil versus English, and whether chain-of-thought prompting helps equally across languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** LLM evaluation · multilingual NLP · reasoning · low-resource languages · reproducibility
+
+**Find me**
+- ORCID: https://orcid.org/0009-0002-7453-2897
+- Google Scholar: [profile]
+- Kaggle: https://kaggle.com/researchai2026
+- Hugging Face: https://huggingface.co/salsaking
+
+*Open to reproducible, open-source research collaborations.*
