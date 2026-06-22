@@ -8,7 +8,6 @@ Independent researcher working on **language model evaluation**, **multilingual 
 
 **Find me**
 - ORCID: https://orcid.org/0009-0002-7453-2897
-- Google Scholar: [profile]
 - Kaggle: https://kaggle.com/researchai2026
 - Hugging Face: https://huggingface.co/salsaking
 
